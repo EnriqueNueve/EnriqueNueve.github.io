@@ -16,7 +16,7 @@ author_profile: true
     * \[[MLR](https://proceedings.mlr.press/v178/nueve22a/nueve22a.pdf)\]
 
 
-### Pre-Graduate School Work
+### Pre-Graduate School Publications 
 
 * _WeatherNet: Nowcasting Net Radiation at the Edge_, **EN**, Robert Jackson, Rajesh Sankaran, Nicola Ferrier, Scott Collis. Accepted IEEE Conference on Technologies for Sustainability (SusTech) 2021.
 
