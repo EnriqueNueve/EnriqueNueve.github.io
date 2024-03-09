@@ -12,7 +12,7 @@ title                    : "Enrique Nueve / Portfolio"
 title_separator          : "-"
 name                     : &name "Enrique Nueve"
 description              : &description "personal description"
-url                      : https://enriquenueve.github.io/enriquenueve9 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://enriquenueve.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
