@@ -6,13 +6,11 @@ tags:
   - Real Analysis
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+**Heine-Borel Theorem**: every open cover of a closed bounded subset of $$\mathbb{R}$$ has a finite subcover. 
 
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
