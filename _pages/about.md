@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Currently, I am a third-year Ph.D. student in the CS Theory group at CU Boulder, as advised by Bo Waggoner and Rafael Frongillo.
+Currently, I am a fourth-year Ph.D. student in the CS Theory group at CU Boulder, as advised by Bo Waggoner and Rafael Frongillo.
 My primary research interests are theoretical machine learning and computational economics. Since starting PhD, I have
 conducted research in Elicitation, Loss Function Design, and Automata Learning.
 
