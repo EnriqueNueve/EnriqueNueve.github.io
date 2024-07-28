@@ -6,7 +6,7 @@ tags:
   - Real Analysis
 ---
 
-**Heine-Borel Theorem**: every open cover $\mathcal{C}$ of a closed bounded subset $F$ of $\mathbb{R}$ has a finite subcover. 
+**Heine-Borel Theorem**: every open cover $$\mathcal{C}$$ of a closed bounded subset $$F$$ of $$\mathbb{R}$$ has a finite subcover. 
 
 <ol>
   <li>First item</li>
