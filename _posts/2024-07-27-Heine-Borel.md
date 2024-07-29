@@ -6,16 +6,18 @@ tags:
   - Real Analysis
 ---
 
+**Open Cover**: Let $$A\subset \mathbb{R}$$. A collection $$\mathcal{C}$$ of open subsets of $$\mathbb{R}$$ is called an open cover of $$A$$ if $$A$$ is contained in the union of all the sets in $$\mathcal{C}$$.
+
 **Heine-Borel Theorem**: every open cover $$\mathcal{C}$$ of a closed bounded subset $$F$$ of $$\mathbb{R}$$ has a finite subcover. 
 
 **Proof**: To begin we consider the case $$F=[a,b]$$ such that $$a,b\in\mathbb{R}$$ and $$a<b$$. Let $$D=\{d\in [a,b] \mid [a,d]\; \text{has a finite subcover from }\mathcal{C}  \}$$. To prove there exists a finite subcover from $$\mathcal{C}$$ over $$F$$, we will show that $$b\in D$$. Outlining the proof, we first show that $$\sup D$$ exists and $$\sup D\in D$$. Hence, by the definition of $$D$$, a finite subcover over $$[a,\sup D]\subseteq [a,b]$$ exists. Finally, we show that $$\sup D = b$$, completing the proof.
 
 
-$$(D\neq \emptyset )$$: Since $$\mathcal{C}$$ is an open cover on $$F$$, there exists an open set $$G\in\mathcal{C}$$ such that $$a\in\mathcal{G}$$ and thus $$[a,a]\in D$$. Therefore $$D\neq \emptyset$$.
+$$(D\neq \emptyset )$$: Since $$\mathcal{C}$$ is an open cover on $$F$$, there exists an open set $$G\in\mathcal{C}$$ such that $$a\in G$$ and thus $$[a,a]\in D$$. Therefore $$D\neq \emptyset$$.
 <br>
 
 
-$$(\sup D\in [a,b] )$$: Let $$s=\sup D$$. Since $D\subseteq [a,b]$$, a closed set, $$s\in [a,b]$$.s
+$$(\sup D\in [a,b] )$$: Let $$s=\sup D$$. Since $$D\subseteq [a,b]$$, a closed set, $$s\in [a,b]$$.s
 <br>
 
 $$(b=\sup D \; \& \; b\in D )$$: By $$\mathcal{C}$$ being an open cover on $$F$$, there exists $$G'\in \mathcal{C}$$ such that $$s\in G'$$. By $$G'$$ being an open set, there exists a $$\delta >0$$ such that $$(s-\delta ,s+\delta )\subset G'$$. Since $$s\in D\subseteq [a,b]$$, there exists $$d'\in (s-\delta ,s)$$ and a finite open cover $$G_1\dots G_n$$ such that $$[a,d']\subseteq G_1\cup \dots \cup G_n$$. Observer for all $$d''\in [s,s+\delta)$$ it hold that $$[a,d'']\subseteq G'\cup G_1\cup \dots \cup G_n$$. Therefore, for any $$\hat{d}\in [s,s+\delta )\cap [a,b]$$ it holds that $$\hat{d}\in D$$. <br>
