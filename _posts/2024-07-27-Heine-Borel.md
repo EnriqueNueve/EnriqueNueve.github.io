@@ -6,6 +6,9 @@ tags:
   - Real Analysis
 ---
 
+For fun and to improve my proofwriting, I am working through the book Measure, Integration & Real Analysis by Sheldon Axler. Each week (as of 7/27/24), I plan to write a blog post-re-writing a core proof from Axler's book.
+
+
 **Open Cover**: Let $$A\subset \mathbb{R}$$. A collection $$\mathcal{C}$$ of open subsets of $$\mathbb{R}$$ is called an open cover of $$A$$ if $$A$$ is contained in the union of all the sets in $$\mathcal{C}$$.
 
 **Heine-Borel Theorem**: every open cover $$\mathcal{C}$$ of a closed bounded subset $$F$$ of $$\mathbb{R}$$ has a finite subcover. 
