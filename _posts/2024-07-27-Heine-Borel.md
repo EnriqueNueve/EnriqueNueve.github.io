@@ -8,9 +8,16 @@ tags:
 
 **Heine-Borel Theorem**: every open cover $$\mathcal{C}$$ of a closed bounded subset $$F$$ of $$\mathbb{R}$$ has a finite subcover. 
 
-<ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ol>
+**Proof**: To begin we consider the case $$F=[a,b]$$ such that $$a,b\in\mathbb{R}$$ and $$a<b$$. Let $$D=\{d\in [a,b] \mid [a,d]\; \text{has a finite subcover from }\mathcal{C}  \}$$. To prove there exists a finite subcover from $$\mathcal{C}$$ over $$F$$, we will show that $$b\in D$$. Outlining the proof, we first show that $$\sup D$$ exists and $$\sup D\in D$$. Hence, by the definition of $$D$$, a finite subcover over $$[a,\sup D]\subseteq [a,b]$$ exists. Finally, we show that $$\sup D = b$$, completing the proof.
+
+
+$$(D\neq \emptyset )$$:
+<br>
+
+
+$$(\sup D\in [a,b] )$$
+<br>
+
+$$(b=\sup D \; \& \; b\in D )$$
+<br>
+
