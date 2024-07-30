@@ -23,7 +23,7 @@ $$(D\neq \emptyset )$$: Since $$\mathcal{C}$$ is an open cover on $$F$$, there e
 $$(\sup D\in [a,b] )$$: Let $$s=\sup D$$. Since $$D\subseteq [a,b]$$, a closed set, $$s\in [a,b]$$.
 <br>
 
-$$(b=\sup D \; \& \; b\in D )$$: By $$\mathcal{C}$$ being an open cover on $$F$$, there exists $$G'\in \mathcal{C}$$ such that $$s\in G'$$. By $$G'$$ being an open set, there exists a $$\delta >0$$ such that $$(s-\delta ,s+\delta )\subset G'$$. Since $$s\in D\subseteq [a,b]$$, there exists $$d'\in (s-\delta ,s)$$ and a finite open cover $$G_1\dots G_n$$ such that $$[a,d']\subseteq G_1\cup \dots \cup G_n$$. Observer for all $$d''\in [s,s+\delta)$$ it hold that $$[a,d'']\subseteq G'\cup G_1\cup \dots \cup G_n$$. Therefore, for any $$\hat{d}\in [s,s+\delta )\cap [a,b]$$ it holds that $$\hat{d}\in D$$. <br>
+$$(b=\sup D \; \& \; b\in D )$$: By $$\mathcal{C}$$ being an open cover on $$F$$, there exists $$G'\in \mathcal{C}$$ such that $$s\in G'$$. By $$G'$$ being an open set, there exists a $$\delta >0$$ such that $$(s-\delta ,s+\delta )\subset G'$$. Since $$s\in [a,b]$$, there exists $$d'\in (s-\delta ,s)$$ and a finite open cover $$G_1\dots G_n$$ such that $$[a,d']\subseteq G_1\cup \dots \cup G_n$$. Observer for all $$d''\in [s,s+\delta)$$ it hold that $$[a,d'']\subseteq G'\cup G_1\cup \dots \cup G_n$$. Therefore, for any $$\hat{d}\in [s,s+\delta )\cap [a,b]$$ it holds that $$\hat{d}\in D$$. <br>
 We claim that $$b=s$$. If $$b\neq s$$ then some element of $$[s,s+\delta )$$ would be greater than $$\sup D$$ forming a contradiction. Hence, $$b\in [b,b+\delta )\cap [a,b]$$ meaning $$b\in D$$.
 <br>
 
