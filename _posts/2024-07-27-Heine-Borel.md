@@ -16,7 +16,7 @@ For fun and to improve my proof-writing, I am working through the book Measure, 
 **Proof**: To begin, we consider the case $$F=[a,b]$$ such that $$a,b\in\mathbb{R}$$ and $$a<b$$. Let $$D=\{d\in [a,b] \mid [a,d]\; \text{has a finite subcover from }\mathcal{C}  \}$$. To prove there exists a finite subcover from $$\mathcal{C}$$ over $$F$$, we will show that $$b\in D$$. Outlining the proof, we first show that $$ D$$ exists and that $$\sup D\in [a,b]$$. Hence, by the definition of $$D$$, a finite subcover over $$[a,\sup D]$$ exists. Finally, we show that $$\sup D = b$$, completing the proof.
 
 
-$$(D\neq \emptyset )$$: Since $$\mathcal{C}$$ is an open cover on $$F$$, there exists an open set $$G\in\mathcal{C}$$ such that $$a\in G$$ and thus $$[a,a]\in D$$. Therefore $$D\neq \emptyset$$.
+$$(D\neq \emptyset )$$: Since $$\mathcal{C}$$ is an open cover on $$F$$, there exists an open set $$G\in\mathcal{C}$$ such that $$a\in G$$ and thus $$a\in D$$. Therefore $$D\neq \emptyset$$.
 <br>
 
 
