@@ -24,11 +24,8 @@ $$D,E\in\mathcal{S}$$ are such that
 $$D\subseteq E$$.
 Then $$\mu (E\setminus D)=\mu (E)-\mu (D)$$ provided that $$\mu (D)<\infty $$.
 
-**Integral of a Simple Function**: Suppose $$(X,\mathcal{S},\mu )$$ is a measure space, 
-$$E_1,\dots ,E_n$$
-are disjoint sets in $$\mathcal{S}$$, and
-$$c_1,\dots ,c_n\in [0,\infty ]$$.
-Then $$\int ( \sum_{k=1}^{n}c_k\chi_{E_k})d\mu = \sum_{k=1}^{n}c_k \mu (E_k) ~.$$
+**Integral of a Characteristic Function**: Suppose $$(X,\mathcal{S},\mu )$$ is a measure space and $$E\in \mathcal{S}$$.
+Then $$\int \chi_{E} d\mu =\mu (E)$$.
 
 **Proof**: 
 $$(\int \chi_{E}d\mu \geq \mu (E)): $$ 
