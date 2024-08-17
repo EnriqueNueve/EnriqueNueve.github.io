@@ -45,7 +45,7 @@ Note,
 $$\mu (A_j)\inf_{A_j}\chi_{E} = \mu (A_j)\cdot 1$$ if 
 $$A_j\subset E$$ by Def. $$\chi_{E}$$ and $$\mu (A_j)\cdot 0$$ otherwise.
 Thus, 
-
+<br>
 
 $$\begin{equation}
 \begin{split}
@@ -55,6 +55,7 @@ $$\begin{equation}
 \end{split} 
 \end{equation}
 $$
-
+and therefore 
+$$\int \chi_{E}d\mu \leq \mu (E) $$.
 
 $$\square$$
