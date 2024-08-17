@@ -1,12 +1,12 @@
 ---
-title: "Integral of Simple Functions"
+title: "Integral of Characteristic Functions"
 date: 2024-08-11
-permalink: /posts/2024/08/IntegralofSimpleFunctions/
+permalink: /posts/2024/08/IntegralofCharacteristicFunction/
 tags:
   - Real Analysis
 ---
 
-This is week three of re-writing a proof from Axler's book Measure, Integration & Real Analysis by Sheldon Axler. The proof covered here demonstrates the closed form for integral of simple function. 
+This is week three of re-writing a proof from Axler's book Measure, Integration & Real Analysis by Sheldon Axler. The proof covered here demonstrates the closed form for integral of characteristic function. 
 
 
 **Def. ($$\mathcal{S}$$-Partion)**: 
