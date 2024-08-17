@@ -56,6 +56,5 @@ $$\begin{equation}
 \end{equation}
 $$
 and therefore 
-$$\int \chi_{E}d\mu \leq \mu (E) $$.
+$$\int \chi_{E}d\mu \leq \mu (E) $$. $$\square$$
 
-$$\square$$
