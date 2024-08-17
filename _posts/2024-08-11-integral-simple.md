@@ -31,10 +31,9 @@ say $$P$$ is a partion of $$X$$  with $$E$$ and its compliment
 $$E^{c}=X\setminus E$$.
 Then 
 $$\mathcal{L}(\chi_{E},\{ E,E^{c} \})=\mu (E)\cdot 1+\mu (E^c)\cdot 0 =\mu (E) $$.
-Yet, whose to ssay $$P=\{ E,E^c \}$$ is the $$\sup_{P}\mathcal{L}(\chi_{E},P)$$ hence, 
+Yet, whose to say $$P=\{ E,E^c \}$$ is the $$\sup_{P}\mathcal{L}(\chi_{E},P)$$ hence, 
 $$(\int \chi_{E}d\mu \geq = \mathcal{L}(\chi_{E},\{E,E^c\}) = \mu (E))~. $$
 
-<br>
 
 $$(\int \chi_{E}d\mu \leq \mu (E)): $$ say $$P = \{ A_1,\dots ,A_m  \} $$ partions $$X$$.
 Note, 
@@ -44,8 +43,8 @@ Thus,
 $$\begin{equation}
 \begin{split}
 \mathcal{L}(\chi_{E},P) &= \sum_{\{ j:A_j\subset E \}}\mu (A_j) &  \\
-&= \mu (\cup_{\{ j:A_j\subset E\}}A_j) & \text{Def. measure as $$A_j$$ is disjoint} \\
-& \leq \mu (E) & \text{Lemma 1}, \cup_{\{ j:A_j\subset E \}}A_j\subseteq E 
+&= \mu (\cup_{\{ j:A_j\subset E\}}A_j) & \text{Def. measure as} $$A_j$$ \;\text{is disjoint} \\
+& \leq \mu (E) & \text{Lemma 1}, \cup_{\{ j:A_j\subset E \}}A_j\subseteq E \\
 \end{split}
 \end{equation}
 $$
