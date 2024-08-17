@@ -45,10 +45,11 @@ Note,
 $$\mu (A_j)\inf_{A_j}\chi_{E} = \mu (A_j)\cdot 1$$ if 
 $$A_j\subset E$$ by Def. $$\chi_{E}$$ and $$\mu (A_j)\cdot 0$$ otherwise.
 Thus, 
+<br>
 $$\begin{equation}
 \begin{split}
   \mathcal{L}(\chi_{E},P) & = \sum_{\{ j:A_j\subset E \}}\mu (A_j) &  \\
-              & = \mu (\cup_{\{ j:A_j\subset E\}}A_j) & \text{Def. measure as}\; A_j \; \text{is disjoint} \\
+              & = \mu (\cup_{\{ j:A_j\subset E\}}A_j) & \quad  \text{Def. measure as}\; A_j \; \text{is disjoint} \\
               & \leq \mu (E) & \text{Lemma 1}, \cup_{\{ j:A_j\subset E \}} A_j \subseteq E 
 \end{split} 
 \end{equation}
