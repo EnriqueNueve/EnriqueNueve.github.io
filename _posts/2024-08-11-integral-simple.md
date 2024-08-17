@@ -19,6 +19,11 @@ $$\mathcal{L}(f,P)=\sum_{j=1}^{m}\mu (A_j )\inf_{A_j}f$$
 **Def. (Integral of a Nonnegative Function)**: 
 $$ \int f d\mu = \sup \{ \mathcal{L}(f,P) : \; P \; \text{is a partion of } X \}=\sup_{A_j\in P} \sum_{j=1}^{m}\mu (A_j )\inf_{A_j} f$$
 
+**Lemma 1**: Suppose $$(X,\mathcal{S},\mu )$$ is a measure space and 
+$$D,E\in\mathcal{S}$$ are such that 
+$$D\subseteq E$$.
+Then $$\mu (E\setminus D)=\mu (E)-\mu (D)$$ provided that $$\mu (D)<\infty $$.
+
 **Integral of a Simple Function**: Suppose $$(X,\mathcal{S},\mu )$$ is a measure space, 
 $$E_1,\dots ,E_n$$
 are disjoint sets in $$\mathcal{S}$$, and
@@ -42,9 +47,9 @@ $$A_j\subset E$$ by Def. $$\chi_{E}$$ and $$\mu (A_j)\cdot 0$$ otherwise.
 Thus, 
 $$\begin{equation}
 \begin{split}
-\mathcal{L}(\chi_{E},P) & = \sum_{\{ j:A_j\subset E \}}\mu (A_j) &  \\
-& = \mu (\cup_{\{ j:A_j\subset E\}}A_j) & \text{Def. measure as} $$A_j$$ \;\text{is disjoint} \\
-& \leq \mu (E) & \text{Lemma 1}, \cup_{\{ j:A_j\subset E \}} A_j \subseteq E 
+  \mathcal{L}(\chi_{E},P) & = \sum_{\{ j:A_j\subset E \}}\mu (A_j) &  \\
+              & = \mu (\cup_{\{ j:A_j\subset E\}}A_j) & \text{Def. measure as}\; A_j \; \text{is disjoint} \\
+              & \leq \mu (E) & \text{Lemma 1}, \cup_{\{ j:A_j\subset E \}} A_j \subseteq E 
 \end{split} 
 \end{equation}
 $$
