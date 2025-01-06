@@ -1,9 +1,9 @@
 ---
-title: "Trading off Consistency and Dimensionality of Convex Surrogates for the Mode"
+title: "Trading off Consistency and Dimensionality of Convex Surrogates for Multiclass Classification"
 collection: publications
 date: 2024-09-25
 venue: 'NeurIPS 2024'
-paperurl: 'https://arxiv.org/abs/2402.10818'
+paperurl: 'https://openreview.net/pdf?id=xCIbVuXwPM'
 author_list: Enrique Nueve, Bo Waggoner, Dhamma Kimpara, Jessie Finocchiaro
 ---
 
