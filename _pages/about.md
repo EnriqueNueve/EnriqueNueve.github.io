@@ -19,5 +19,8 @@ an edge network such as model monitoring (out of distribution detection,
 outlier detection and active learning, interpretability), model optimization
 (quantization), and ML application development, mostly in the domains of audio and image processing.
 
-Outside of my Ph.D., I currently work as a data scientist for the Federal Reserve Bank in Chicago.
-Within my role, I primarily develop models to identify different potential risk factors within the banking sector and NLP solutions to assist with the examination process of banks.
+During my Ph.D. from 2022 to 2025, I worked as a data scientist for the Federal Reserve Bank in Chicago.
+Within my role, I primarily developed models to identify different potential risk factors within the banking sector and NLP solutions to assist with the examination process of banks.
+
+From May to December 2026, I am taking a leave of absence to do an ML-related internship with Apple. I will be returning
+to CU Boulder in Spring 2026 to defend my thesis and graduate.

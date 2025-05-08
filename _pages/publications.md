@@ -9,10 +9,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* _Trading off Consistency and Dimensionality of Convex Surrogates for Multiclass Classification_, **EN**, [Dhamma Kimpara](https://dkimpara.github.io), [Bo Waggoner](www.bowaggoner.com) , [Jessie Finocchiaro](https://www.jessiefin.com/). Accepted to NeurIPS 2024.
-    * \[[Open Review](https://openreview.net/pdf?id=xCIbVuXwPM)\]
+* _Smooth Quadratic Prediction Markets_, **EN**, [Bo Waggoner](https://www.bowaggoner.com/). In Review.
+    * \[[Arxiv](https://arxiv.org/abs/2505.02959)]
 
-* _The Structured Abstain Problem and the Lovasz Hinge_ [Jessie Finocchiaro](https://www.jessiefin.com/), [Rafael Frongillo](https://www.cs.colorado.edu/~raf/), **EN** (authors alphabetically listed).  Accepted to the Conference on Learning Theory (COLT) 2022.
+* _Trading off Consistency and Dimensionality of Convex Surrogates for Multiclass Classification_, **EN**, [Dhamma Kimpara](https://dkimpara.github.io), [Bo Waggoner](https://www.bowaggoner.com/) , [Jessie Finocchiaro](https://www.jessiefin.com/). Accepted to NeurIPS 2024.
+    * \[[Open Review](https://openreview.net/pdf?id=xCIbVuXwPM)\], \[[Arxiv](https://arxiv.org/abs/2402.10818)]
+
+* _The Structured Abstain Problem and the Lovasz Hinge_ [Jessie Finocchiaro](https://www.jessiefin.com/), [Rafael Frongillo](https://www.cs.colorado.edu/~raf/), **EN** (authors alphabetically listed).  Accepted to Conference on Learning Theory (COLT) 2022.
     * \[[MLR](https://proceedings.mlr.press/v178/nueve22a/nueve22a.pdf)\]
 
 
