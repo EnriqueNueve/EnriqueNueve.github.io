@@ -2,8 +2,8 @@
 title: "Smooth Quadratic Prediction Markets"
 collection: publications
 date: 2025-05-08
-venue: 'In Review'
-paperurl: 'https://arxiv.org/abs/2505.02959'
+venue: 'NeurIPS 2025'
+paperurl: 'https://openreview.net/pdf?id=d3FjdOwLEd'
 author_list: Enrique Nueve, Bo Waggoner 
 ---
 
