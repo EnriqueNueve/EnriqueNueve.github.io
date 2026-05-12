@@ -9,10 +9,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* _Structured Prediction with Abstention via the Lovasz Hinge_ [Jessie Finocchiaro](https://www.jessiefin.com/), [Rafael Frongillo](https://www.cs.colorado.edu/~raf/), **EN** In Review.
+* _Adaptive Liquidity in Prediction Markets via Online Learning_ **EN**, Bao Nguyen , [Rafael Frongillo](https://www.cs.colorado.edu/~raf/), [Bo Waggoner](https://www.bowaggoner.com/). In Review.
+    * \[[Arxiv](https://arxiv.org/abs/2605.09599)\]
+
+* _Structured Prediction with Abstention via the Lovasz Hinge_ [Jessie Finocchiaro](https://www.jessiefin.com/), [Rafael Frongillo](https://www.cs.colorado.edu/~raf/), **EN**. In Review.
     * \[[Arxiv](https://arxiv.org/abs/2505.06446)\]
 
-* _Smooth Quadratic Prediction Markets_, **EN**, [Bo Waggoner](https://www.bowaggoner.com/). In Review.
+* _Smooth Quadratic Prediction Markets_, **EN**, [Bo Waggoner](https://www.bowaggoner.com/). Accepted to NeurIPS 2025.
     * \[[Arxiv](https://arxiv.org/abs/2505.02959)]
 
 * _Trading off Consistency and Dimensionality of Convex Surrogates for Multiclass Classification_, **EN**, [Dhamma Kimpara](https://dkimpara.github.io), [Bo Waggoner](https://www.bowaggoner.com/) , [Jessie Finocchiaro](https://www.jessiefin.com/). Accepted to NeurIPS 2024.
